@@ -37,6 +37,8 @@
 Email = admin@gmail.com  
 Password = admin
 
+## Repository Link 
+https://github.com/IrvanStillLearning/inventaris-app
 
 ## Created By
 🧫 Irvan Kurniawan
